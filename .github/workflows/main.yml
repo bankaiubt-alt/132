@@ -1,6 +1,6 @@
 name: Build Flet APK
 
-on:
+on: 
   workflow_dispatch:
   push:
     branches:
