@@ -1,0 +1,3 @@
+[tool.flet.app]
+path = "."
+module = "main_before_rewrite"
